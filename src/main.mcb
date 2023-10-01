@@ -1,0 +1,8 @@
+
+function load {
+	tellraw @a "Reloaded!"
+}
+
+function tick {
+	
+}

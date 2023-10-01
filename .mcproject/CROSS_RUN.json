@@ -1,0 +1,23 @@
+[
+  [
+    "lastUpdate",
+    "Sun Oct 01 2023 11:05:06 GMT-0400 (Eastern Daylight Time)"
+  ],
+  [
+    "INTERNAL/VIRTUAL_FILE_SYSTEM",
+    {
+      "src\\main.mcb": {
+        "data\\minecraft\\tags\\functions\\load.json": 3731147319,
+        "data\\minecraft\\tags\\functions\\tick.json": 2957366372,
+        "data\\main\\functions\\load.mcfunction": 1329429900,
+        "data\\main\\functions\\tick.mcfunction": 3313626985
+      },
+      "src\\main.mc": {
+        "data\\minecraft\\tags\\functions\\load.json": 3731147319,
+        "data\\minecraft\\tags\\functions\\tick.json": 2957366372,
+        "data\\main\\functions\\load.mcfunction": 1329429900,
+        "data\\main\\functions\\tick.mcfunction": 3313626985
+      }
+    }
+  ]
+]
