@@ -1,5 +1,11 @@
 {
-  "dependencies": {
-    "zip-lib": "^0.7.3"
-  }
+	"dependencies": {
+		"zip-lib": "^0.7.3"
+	},
+	"scripts": {
+		"dev": "mcb -w-alt -debounce-time 100",
+		"dev:clean": "mcb -w-alt -debounce-time 100 -clean",
+		"build": "mcb -build -package",
+		"build:clean": "mcb -build -package -clean"
+	}
 }

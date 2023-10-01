@@ -1,5 +1,6 @@
 # MCBuild
 data/
+.mcproject/CROSS_RUN.json
 
 # Logs
 logs
