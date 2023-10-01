@@ -1,11 +1,16 @@
 {
 	"dependencies": {
+		"terminal-kit": "^3.0.0",
 		"zip-lib": "^0.7.3"
 	},
 	"scripts": {
 		"dev": "mcb -w-alt -debounce-time 100",
 		"dev:clean": "mcb -w-alt -debounce-time 100 -clean",
 		"build": "mcb -build -package",
-		"build:clean": "mcb -build -package -clean"
+		"build:clean": "mcb -build -package -clean",
+		"inject": "node ./.tools/world_injection.js"
+	},
+	"devDependencies": {
+		"@types/terminal-kit": "^2.5.2"
 	}
 }
